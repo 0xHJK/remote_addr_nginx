@@ -1,5 +1,7 @@
 ## Usage
 
+Install Docker first.
+
 ```shell
 $ git clone https://github.com/0xHJK/remote_addr_nginx.git
 $ cd remote_addr_nginx && sh ./run.sh
