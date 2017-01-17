@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOMAIN='ip.github.tk'
+DOMAIN='test.local.com'
 
 # see more https://github.com/jwilder/nginx-proxy
 
